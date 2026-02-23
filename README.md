@@ -3,7 +3,7 @@
 
 ## RO 
 
- **Pentru fisierele sursa sunt [aici](https://github.com/4lac1vica/ReadHumidity/tree/main/HumidityRead/HumidityRead.srcs/sources_1/new).**
+ **Fisierele sursa sunt [aici](https://github.com/4lac1vica/ReadHumidity/tree/main/HumidityRead/HumidityRead.srcs/sources_1/new).**
 
 
 ## EN 
