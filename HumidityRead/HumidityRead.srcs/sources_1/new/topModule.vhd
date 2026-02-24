@@ -32,7 +32,12 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity topModule is
---  Port ( );
+  Port ( 
+    cat : out std_logic_vector(6 downto 0);
+    an : out std_logic_vector(3 downto 0);
+    clk : in std_logic
+    
+  );
 end topModule;
 
 architecture Behavioral of topModule is
