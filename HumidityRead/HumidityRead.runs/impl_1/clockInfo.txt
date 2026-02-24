@@ -1,6 +1,6 @@
 -------------------------------------
 | Tool Version : Vivado v.2024.1
-| Date         : Mon Feb 23 22:56:48 2026
+| Date         : Tue Feb 24 17:01:52 2026
 | Host         : TinuPC04
 | Design       : design_1
 | Device       : xc7a35t-cpg236-1--

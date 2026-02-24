@@ -36,6 +36,7 @@ use IEEE.NUMERIC_STD.ALL;
 entity SSD is
   Port ( 
     clk : in std_logic;
+    value : in unsigned(13 downto 0); -- valoarea de afisat 
     an : out std_logic_vector(3 downto 0); --anodes 
     cat : out std_logic_vector(6 downto 0) --cathodes
   );
@@ -46,11 +47,9 @@ architecture Behavioral of SSD is
     signal refreshCounter : unsigned(19 downto 0) := (others => '0');
     signal digitSelect : unsigned (1 downto 0) := (others => '0');
     signal digit : std_logic_vector(3 downto 0);
-    signal timer : unsigned (27 downto 0) := (others => '0') ;
-    signal tick1s : std_logic := '0';
-    signal value : unsigned(13 downto 0) := (others => '0');
     signal d0, d1, d2, d3 : std_logic_vector(3 downto 0);
-    constant TIMER_MAX : unsigned(27 downto 0) := to_unsigned(99_999_999, 28);
+    
+    
 begin
 
 
@@ -71,27 +70,6 @@ end process;
 --an <= "1110";
 --digit <= "0000";
 
-process(clk)
-begin 
-    if rising_edge(clk) then 
-        if timer = TIMER_MAX then 
-            timer <= (others => '0');
-            tick1s <= '1';
-        else 
-            timer <= timer + 1;
-            tick1s <= '0';
-        end if;  
-    end if;
-end process;
-
-process(clk)
-begin 
-    if rising_edge(clk) then 
-        if tick1s = '1' then 
-           value <= value + 1; 
-        end if;
-    end if;
-end process;
 
 process(value)
 variable val_int : integer;

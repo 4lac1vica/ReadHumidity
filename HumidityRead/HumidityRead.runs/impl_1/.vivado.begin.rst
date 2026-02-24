@@ -1,55 +1,10 @@
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="11460" HostCore="16" HostMemory="014702026752">
+    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="6604" HostCore="16" HostMemory="014702026752">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="13004" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="27404" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="13248" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="31500" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="10204" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="30500" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="20932" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="28296" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="9692" HostCore="16" HostMemory="014702026752">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="17240" HostCore="16" HostMemory="014702026752">
+    <Process Command="vivado.bat" Owner="todit" Host="TINUPC04" Pid="7520" HostCore="16" HostMemory="014702026752">
     </Process>
 </ProcessHandle>
