@@ -11,7 +11,8 @@
 
   - Automat cu stari finite
   - senzor DHT11 (umiditate + temperatura) 
-  - afisor 7 segmente 
+  - afisor 7 segmente
+  - logica de debounce pentru switch-uri
   
   **Diagramele de stare**
 
