@@ -12,7 +12,8 @@
   - Automat cu stari finite
   - senzor DHT11 (umiditate + temperatura) 
   - afisor 7 segmente
-  - logica de debounce pentru switch-uri
+  - logica de debounce pentru switch-uri (TBI)
+  - reset (TBI)
   
   **Diagramele de stare**
 
@@ -42,7 +43,8 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
   - Finite State Machines
   - DHT11 sensor (humidity + temperature)
   - seven segment display
-  - debounce logic for switches
+  - debounce logic for switches (TBI)
+  - reset (TBI)
 
 **State Diagrams**
 
