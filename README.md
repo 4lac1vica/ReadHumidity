@@ -15,7 +15,20 @@
   
   **Diagrama de stare**
 
-  **Rezumat**
+  **Instructiuni de utilizare**
+
+  Componente necesare : 1 x Placuta Basys 3, 1 x rezistenta intre 4.7K Ohmi - 10K Ohm, 5 x fire mama-tata, 1 x breadboard, 1 x DHT11 sensor;
+  Tooluri necesare : Xilinx Vivado 2024.1;
+  
+  Pentru a utiliza acest sistem trebuie urmati urmatorii pasi : 
+
+  1) Copiaza acest repo.
+  2) Realizeaza montajul in felul urmator : plaseaza bradboardul orizontal fata de tine. Apoi plaseaza senzorul cu fata spre tine (partea cu gauri sa fie spre tine). Apoi conecteaza firele la Basys la porturile **PMod JB**. VCC si GND sa fie comune, sa fie de la placuta. Firul de date sa fie conecat la portul JB din dreapta sus (portul JB1).
+  3) Conecteaza circuitul la calculator.
+  4) Genereaza bitstream, deschide *Hardware Manager*, selecteaza *Auto-connect* si apasa pe *Program Device*
+  5) Pentru a vedea temperatura, switch-ul sa fie in pozitia **off**. Pentru a vedea umiditatea, switchul sa fie pe pozitia **on**.
+  
+  
 
 ## EN 
 
@@ -30,4 +43,4 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
 
 **State Diagram**
 
-**Short Description**
+**How to use**
