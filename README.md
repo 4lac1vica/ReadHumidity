@@ -18,6 +18,7 @@
   **Instructiuni de utilizare**
 
   Componente necesare : 1 x Placuta Basys 3, 1 x rezistenta intre 4.7K Ohmi - 10K Ohm, 5 x fire mama-tata, 1 x breadboard, 1 x DHT11 sensor;
+  
   Tooluri necesare : Xilinx Vivado 2024.1;
   
   Pentru a utiliza acest sistem trebuie urmati urmatorii pasi : 
