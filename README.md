@@ -23,7 +23,7 @@
   Pentru a utiliza acest sistem trebuie urmati urmatorii pasi : 
 
   1) Copiaza acest repo.
-  2) Realizeaza montajul in felul urmator : plaseaza bradboardul orizontal fata de tine. Apoi plaseaza senzorul cu fata spre tine (partea cu gauri sa fie spre tine). Apoi conecteaza firele la Basys la porturile **PMod JB**. VCC si GND sa fie comune, sa fie de la placuta. Firul de date sa fie conectat la portul JB din dreapta sus (portul JB1). **Atentie, intre VCC si DATA(pinul 1 si pinul 2 de la stanga la dreapta) trebuie pusa rezistenta, deoarece pot aparea probleme la citirea datelor.**
+  2) Realizeaza montajul in felul urmator : plaseaza bradboardul orizontal fata de tine. Apoi plaseaza senzorul cu fata spre tine (partea cu gauri sa fie spre tine). Apoi conecteaza firele la Basys la porturile **PMod JB**. VCC si GND sa fie comune, sa fie de la placuta. Firul de date sa fie conectat la portul JB din dreapta sus (portul JB1). **Atentie, intre VCC si DATA(pinul 1 si pinul 2 de la stanga la dreapta pe senzor) trebuie pusa rezistenta, deoarece pot aparea probleme la citirea datelor.**
   3) Conecteaza circuitul la calculator.
   4) Genereaza bitstream, deschide *Hardware Manager*, selecteaza *Auto-connect* si apasa pe *Program Device*
   5) Pentru a vedea temperatura, switch-ul sa fie in pozitia **off**. Pentru a vedea umiditatea, switchul sa fie pe pozitia **on**.
