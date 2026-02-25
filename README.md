@@ -13,7 +13,7 @@
   - senzor DHT11 (umiditate + temperatura) 
   - afisor 7 segmente 
   
-  **Diagrama de stare**
+  **Diagramele de stare**
 
   **Instructiuni de utilizare**
 
