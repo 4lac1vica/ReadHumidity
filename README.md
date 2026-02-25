@@ -41,6 +41,6 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
   - DHT11 sensor (humidity + temperature)
   - seven segment display
 
-**State Diagram**
+**State Diagrams**
 
 **How to use**
