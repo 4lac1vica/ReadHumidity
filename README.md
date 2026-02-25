@@ -9,6 +9,10 @@
 
   **Features**
 
+  - Automat cu stari finite
+  - senzor DHT11 (umiditate + temperatura) 
+  - afisor 7 segmente 
+  
   **Diagrama de stare**
 
   **Rezumat**
@@ -20,7 +24,9 @@
 This project proposes reading a DHT11 sensor (humidity + temperature) and transmitting the data to a Basys 3 board, with the data being displayed on a 7-segment display.
 
 **Features**
-
+  - Finite State Machines
+  - DHT11 sensor (humidity + temperature)
+  - seven segment display
 
 **State Diagram**
 
