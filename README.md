@@ -17,6 +17,7 @@
 
  **The source files are [here](https://github.com/4lac1vica/ReadHumidity/tree/main/HumidityRead/HumidityRead.srcs/sources_1/new).**
 
+This project proposes reading a DHT11 sensor (humidity + temperature) and transmitting the data to a Basys 3 board, with the data being displayed on a 7-segment display.
 
 **Features**
 
