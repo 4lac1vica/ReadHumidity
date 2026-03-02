@@ -51,7 +51,7 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
   - Finite State Machines
   - DHT11 sensor (humidity + temperature)
   - seven segment display
-  - debounce logic for switches (TBI)
+  - debounce logic for switches 
   - reset (TBI)
 
 **State Diagrams**
