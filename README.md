@@ -17,6 +17,12 @@
   
   **Diagramele de stare**
 
+    1) Diagrama de stare pentru senzor
+    
+
+    2) Diagrama de stare a sistemului 
+
+  
   **Instructiuni de utilizare**
 
   Componente necesare : 1 x Placuta Basys 3, 1 x rezistenta intre 4.7K Ohmi - 10K Ohmi, 5 x fire mama-tata, 1 x breadboard, 1 x DHT11 sensor;
@@ -49,6 +55,12 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
   - reset (TBI)
 
 **State Diagrams**
+
+  1) State diagram for the sensor
+
+
+  2) State diagram for the whole system
+
 
 **How to use**
 
