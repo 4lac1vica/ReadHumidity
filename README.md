@@ -51,3 +51,17 @@ This project proposes reading a DHT11 sensor (humidity + temperature) and transm
 **State Diagrams**
 
 **How to use**
+
+Components : 1 x Basys 3 , 1 x 4.7K - 10K Ohm resistor, 5 x jumper wires, 1 x breadboard, 1 x DHT11 sensor;
+
+Tools : Xilinx Vivado 2024.1;
+
+To use this system follow the next steps : 
+
+1) Copy this repo
+2) Assemble it in the following way: place the breadboard horizontally in front of you. Then place the sensor facing you (the side with holes should be towards you). Then connect the wires to the Basys at the **PMod JB** ports. VCC and GND should be shared, coming from the board. The data wire should be connected to the top right JB port (JB1 port). **Attention, a resistor must be placed between VCC and DATA (pin 1 and pin 2 from left to right on the sensor), because problems may occur when reading the data.**
+3) Connect the circuit to the PC
+4) Generate bistream, open *Hardware manager*, select *Auto-connect* option and press the *Program Device* button.
+5) To see the temperature, the switch must be in **off** position. If you want to see the humidity, the switch must be in the **on** position.
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/933f5e9f-19f7-4065-9bdd-ed8f71c608be" />
