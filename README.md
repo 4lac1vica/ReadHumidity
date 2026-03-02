@@ -1,4 +1,4 @@
-## Reading Humidity and Temperature using Basys 3 and DHT11 Sensor 
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/933f5e9f-19f7-4065-9bdd-ed8f71c608be" />## Reading Humidity and Temperature using Basys 3 and DHT11 Sensor 
 
 
 ## RO 
@@ -31,7 +31,8 @@
   4) Genereaza bitstream, deschide *Hardware Manager*, selecteaza *Auto-connect* si apasa pe *Program Device*
   5) Pentru a vedea temperatura, switch-ul sa fie in pozitia **off**. Pentru a vedea umiditatea, switchul sa fie pe pozitia **on**.
   
-  
+  ![Uploading image.png…](Humidity)
+
 
 ## EN 
 
