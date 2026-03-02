@@ -15,12 +15,12 @@
   - logica de debounce pentru switch-uri
   - reset (TBI)
   
-  **Diagramele de stare**
+**Diagramele de stare**
 
-    1) Diagrama de stare pentru senzor
+  1) Diagrama de stare pentru senzor
     
 
-    2) Diagrama de stare a sistemului 
+  2) Diagrama de stare a sistemului 
 
   
   **Instructiuni de utilizare**
